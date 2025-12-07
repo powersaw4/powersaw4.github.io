@@ -1,0 +1,31 @@
+{
+  "name": "brickit-designs-website",
+  "version": "1.0.0",
+  "description": "Professional architecture and interior design studio portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx http-server -p 8000 -o --watch",
+    "deploy:vercel": "vercel --prod",
+    "deploy:netlify": "netlify deploy --prod --dir=.",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": [
+    "architecture",
+    "interior-design",
+    "portfolio",
+    "static-website",
+    "responsive",
+    "web3forms"
+  ],
+  "author": "Brickit Designs",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/brickit-designs.git"
+  },
+  "homepage": "https://YOUR-USERNAME.github.io/brickit-designs/",
+  "devDependencies": {},
+  "dependencies": {}
+}
