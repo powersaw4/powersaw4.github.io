@@ -2,7 +2,7 @@
 
 Complete website package for Brickit Designs - A professional architecture and interior design studio portfolio website.
 
-## 🌟 Features
+## ðŸŒŸ Features
 
 - **Full-screen Hero Slideshow** - 9 rotating project images with smooth transitions
 - **Responsive Design** - Works perfectly on desktop, tablet, and mobile
@@ -13,21 +13,21 @@ Complete website package for Brickit Designs - A professional architecture and i
 - **Professional Footer** - Complete contact information and navigation
 - **SEO Optimized** - Meta tags and semantic HTML structure
 
-## 📁 Project Structure
+## ðŸ“ Project Structure
 
 ```
 brickit-website-complete/
-├── index.html              # Main HTML file (complete website)
-├── README.md              # This file
-├── assets/
-│   ├── images/            # Project images folder
-│   └── fonts/             # Custom fonts (if needed)
-├── css/                   # External CSS (optional)
-├── js/                    # External JS (optional)
-└── .gitignore            # Git ignore file
+â”œâ”€â”€ index.html              # Main HTML file (complete website)
+â”œâ”€â”€ README.md              # This file
+â”œâ”€â”€ assets/
+â”‚   â”œâ”€â”€ images/            # Project images folder
+â”‚   â””â”€â”€ fonts/             # Custom fonts (if needed)
+â”œâ”€â”€ css/                   # External CSS (optional)
+â”œâ”€â”€ js/                    # External JS (optional)
+â””â”€â”€ .gitignore            # Git ignore file
 ```
 
-## 🚀 Quick Start
+## ðŸš€ Quick Start
 
 ### Option 1: Open Locally
 1. Download/extract this folder
@@ -37,9 +37,9 @@ brickit-website-complete/
 ### Option 2: Use Live Server (Recommended for Development)
 1. Install VS Code
 2. Install "Live Server" extension
-3. Right-click `index.html` → "Open with Live Server"
+3. Right-click `index.html` â†’ "Open with Live Server"
 
-## 🌐 Deployment Instructions
+## ðŸŒ Deployment Instructions
 
 ### Deploy to GitHub Pages
 
@@ -79,7 +79,7 @@ brickit-website-complete/
 
 3. **Or Deploy via Web**
    - Go to [vercel.com](https://vercel.com)
-   - Click "Add New" → "Project"
+   - Click "Add New" â†’ "Project"
    - Import your Git repository
    - Click "Deploy"
 
@@ -114,7 +114,7 @@ brickit-website-complete/
 2. **Access Your Site**
    - URL: `https://your-project.pages.dev`
 
-## ⚙️ Configuration
+## âš™ï¸ Configuration
 
 ### Contact Form Setup
 
@@ -172,7 +172,7 @@ Find lines 1394-1408 in `index.html`:
 <a href="tel:+91XXXXXXXXXX">+91-XXXXXXXXXX</a>
 ```
 
-## 🎨 Customization
+## ðŸŽ¨ Customization
 
 ### Colors
 
@@ -202,15 +202,15 @@ Update "Brickit" branding:
 - Footer: Line 1391
 - Footer massive text: Line 1451
 
-## 📱 Responsive Breakpoints
+## ðŸ“± Responsive Breakpoints
 
 - **Desktop:** > 768px
-- **Tablet:** ≤ 768px
+- **Tablet:** â‰¤ 768px
 - **Mobile:** < 480px
 
 Media queries start at line 916 in `index.html`.
 
-## 🔧 Technical Stack
+## ðŸ”§ Technical Stack
 
 - **HTML5** - Semantic markup
 - **CSS3** - Modern layouts (Flexbox, Grid)
@@ -220,7 +220,7 @@ Media queries start at line 916 in `index.html`.
 - **Google Fonts** - Typography
 - **GitHub** - Image hosting (client logos)
 
-## 📊 Performance
+## ðŸ“Š Performance
 
 - **Load Time:** < 2 seconds
 - **Page Size:** ~70KB HTML
@@ -228,18 +228,18 @@ Media queries start at line 916 in `index.html`.
 - **No Dependencies:** Self-contained
 - **SEO Score:** 95+
 
-## 🌍 Browser Support
+## ðŸŒ Browser Support
 
-- ✅ Chrome 51+
-- ✅ Firefox 55+
-- ✅ Safari 12.1+
-- ✅ Edge 15+
-- ✅ iOS Safari 12.2+
-- ✅ Android Chrome 51+
+- âœ… Chrome 51+
+- âœ… Firefox 55+
+- âœ… Safari 12.1+
+- âœ… Edge 15+
+- âœ… iOS Safari 12.2+
+- âœ… Android Chrome 51+
 
 **Coverage:** 97%+ worldwide
 
-## 📧 Contact Form Fields
+## ðŸ“§ Contact Form Fields
 
 Required fields:
 - First Name
@@ -254,7 +254,7 @@ Form validation:
 - All fields required
 - Success popup on submission
 
-## 🎯 Section Breakdown
+## ðŸŽ¯ Section Breakdown
 
 ### Section 1: Hero (100vh)
 - Full-screen slideshow
@@ -279,18 +279,18 @@ Form validation:
 - Large branding text
 - Copyright notice
 
-## 🔒 Security
+## ðŸ”’ Security
 
 - No backend code (static site)
 - Form submissions via Web3Forms (secure)
 - No sensitive data stored
 - HTTPS recommended for deployment
 
-## 📝 License
+## ðŸ“ License
 
-All rights reserved - Brickit Designs © 2025
+All rights reserved - Brickit Designs Â© 2025
 
-## 🐛 Troubleshooting
+## ðŸ› Troubleshooting
 
 ### Form Not Submitting
 - Check Web3Forms access key
@@ -312,14 +312,14 @@ All rights reserved - Brickit Designs © 2025
 - Check browser console for errors
 - Ensure JavaScript is enabled
 
-## 📞 Support
+## ðŸ“ž Support
 
 For issues or questions:
 - Email: principal@brickitdesigns.com
 - Review documentation above
 - Check browser console for errors
 
-## 🚀 Going Live Checklist
+## ðŸš€ Going Live Checklist
 
 - [ ] Update contact form access key
 - [ ] Replace placeholder images
@@ -336,7 +336,7 @@ For issues or questions:
 - [ ] Enable HTTPS
 - [ ] Submit to search engines
 
-## 📚 Additional Resources
+## ðŸ“š Additional Resources
 
 - [Web3Forms Documentation](https://docs.web3forms.com/)
 - [GitHub Pages Guide](https://pages.github.com/)
@@ -347,7 +347,7 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ for Brickit Designs**
+**Built with â¤ï¸ for Brickit Designs**
 
 Last Updated: December 2024
 Version: 1.0.0
